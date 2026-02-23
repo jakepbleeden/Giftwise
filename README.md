@@ -24,3 +24,11 @@ Production: https://test-heroku-gift-d2da158a293e.herokuapp.com
 ### Status
 
 Active development. Main branch tracks the latest stable code. Feature branches hold in progress stories and tasks. 
+
+### Preview
+
+<img width="1861" height="870" alt="image" src="https://github.com/user-attachments/assets/63a66194-ac5f-4680-ad11-382e72d7ae6a" />
+<img width="1861" height="874" alt="image" src="https://github.com/user-attachments/assets/e794ea54-f50e-4f6e-b4e6-85620cc66fb6" />
+<img width="1859" height="870" alt="image" src="https://github.com/user-attachments/assets/2ec8eba1-82a4-45f5-b176-724ad6039887" />
+
+
