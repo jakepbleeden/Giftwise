@@ -1,4 +1,4 @@
-## GiftWise
+## GiftWise 
 A web based gift tracking application built on Ruby 3.3.8 with Rails 7
 
 ---
@@ -6,9 +6,6 @@ A web based gift tracking application built on Ruby 3.3.8 with Rails 7
 ### Summary
 Giftwise is a gift tracking app that keeps all details of gift giving all in one place. You can create an event, invite friends & family to the event, and then get helpful gift information regarding each user! Once a user accepts an event invite, you get access to their interests, profile bios, and wish list. You can also chat with a gift giving assistant that will generate gift ideas personalized to each event user. 
 
-### Live Demo
-
-Production: https://test-heroku-gift-d2da158a293e.herokuapp.com
 
 ### Local Setup
 
